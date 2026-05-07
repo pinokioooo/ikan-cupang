@@ -1,4 +1,3 @@
 node_modules
 dist
-.vscodegit add .
-git commit -m "first commit"
+.vscode
